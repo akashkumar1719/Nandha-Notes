@@ -1,0 +1,9 @@
+echo "node_modules/
+.vscode/
+__pycache__/
+*.pyc
+.env.local
+.env.development
+.env.test
+" > .gitignore
+backend/.env
